@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "Austin, USA"
-title                    : "Xing Han"
+theme                    : "jekyll-theme-minimal"
+title                    : "Homepage of Xing Han"
 title_separator          : "-"
 name                     : &name "Xing Han"
 description              : &description "PhD Candidate at UT-Austin"
