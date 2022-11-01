@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronics and Electrical Engineering, The University of Edinburgh, 2017
+* M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2019
+* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2023 (expected)
 
 Work experience
 ======
@@ -47,13 +47,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

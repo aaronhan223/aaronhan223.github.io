@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am currently a PhD candidate at University of Texas at Austin, working with [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/), and am affiliated with [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I am also fortunate to work with [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
+I am currently a PhD candidate at University of Texas at Austin, where I am associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I am fortunate to be advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/), and collaborate with [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
 
 Research Interests
 ======
