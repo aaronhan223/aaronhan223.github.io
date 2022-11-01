@@ -5,25 +5,25 @@ permalink: mfs
 excerpt: 
 date: 2021-7-18
 paperurl: 'https://arxiv.org/pdf/2011.00639.pdf'
-paperconf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9533992'
+paperconf: 'https://ieeexplore.ieee.org/document/9533992'
 code: 
 authors: <b>Xing Han</b>, and Joydeep Ghosh
 publisher: 2021 International Joint Conference on Neural Networks (IJCNN).
 
 ---
-Learning monotonic models with respect to a subset of the inputs is a desirable feature to effectively address the fairness, interpretability, and generalization issues in practice. Existing methods for learning monotonic neural networks either require specifically designed model structures to ensure monotonicity, which can be too restrictive/complicated, or enforce monotonicity by adjusting the learning process, which cannot provably guarantee the learned model is monotonic on selected features. In this work, we propose to certify the monotonicity of the general piece-wise linear neural networks by solving a mixed integer linear programming problem. This provides a new general approach for learning monotonic neural networks with arbitrary model structures. Our method allows us to train neural networks with heuristic monotonicity regularizations, and we can gradually increase the regularization magnitude until the learned network is certified monotonic. Compared to prior work, our method does not require human-designed constraints on the weight space and also yields more accurate approximation. Empirical studies on various datasets demonstrate the efficiency of our approach over the state-of-the-art methods, such as Deep Lattice Networks.
+How can we find a subset of training samples that are most responsible for a specific prediction made by a complex black-box machine learning model? More generally, how can we explain the model's decisions to end-users in a transparent way? We propose a new model-agnostic algorithm to identify a minimal set of training samples that are indispensable for a given model's decision at a particular test point, i.e., the model's decision would have changed upon the removal of this subset from the training dataset. Our algorithm identifies such a set of ``indispensable'' samples iteratively by solving a constrained optimization problem. Further, we speed up the algorithm through efficient approximations and provide theoretical justification for its performance. To demonstrate the applicability and effectiveness of our approach, we apply it to a variety of tasks including data poisoning detection, training set debugging and understanding loan decisions. The results show that our algorithm is an effective and easy-to-comprehend tool that helps to better understand local model behavior, and therefore facilitates the adoption of machine learning in domains where such understanding is a requisite. 
 
 
-[[Arxiv]](https://arxiv.org/pdf/2011.10219.pdf) [[Conference]](https://proceedings.neurips.cc/paper/2020/file/b139aeda1c2914e3b579aafd3ceeb1bd-Paper.pdf) [[Code]](https://github.com/gnobitab/CertifiedMonotonicNetwork)
+[Arxiv](https://arxiv.org/pdf/2011.00639.pdf) [Conference](https://ieeexplore.ieee.org/document/9533992)
 
 Recommended citation:
 <pre>
-@article{liu2020certified,
-  title={Certified monotonic neural networks},
-  author={Liu, Xingchao and Han, Xing and Zhang, Na and Liu, Qiang},
-  journal={Advances in Neural Information Processing Systems},
-  volume={33},
-  pages={15427--15438},
-  year={2020}
+@inproceedings{han2021model,
+  title={Model-agnostic explanations using minimal forcing subsets},
+  author={Han, Xing and Ghosh, Joydeep},
+  booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021},
+  organization={IEEE}
 }
 </pre>
