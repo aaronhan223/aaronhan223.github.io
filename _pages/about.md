@@ -19,7 +19,7 @@ I am boardly interested in developing principles and practice of trustworthy mac
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
-Besides, I'm also interested in novel ML methods for transformative applications in healthcare.
+Besides, I'm also interested in novel ML methods for transformative applications in healthcare. Here is my [research statement](http://academicpages.github.io/files/Research_Statement.pdf).
 
 Recent News
 ======
