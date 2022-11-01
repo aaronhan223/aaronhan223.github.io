@@ -9,15 +9,17 @@ redirect_from:
 ---
 About Me
 ======
-I am currently a PhD candidate at University of Texas at Austin, working with [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/), and affiliated with [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I am also fortunate to work with [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
+I am currently a PhD candidate at University of Texas at Austin, working with [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/), and am affiliated with [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I am also fortunate to work with [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
 
 Research Interests
 ======
 I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics
 
- - `Uncertainty quantification`: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
+ - **Uncertainty quantification**`**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
  - **Interpretability**: build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
+
+In addition, I'm also interested in research on novel ML methods for transformative applications in healthcare.
 
 Getting started
 ======
