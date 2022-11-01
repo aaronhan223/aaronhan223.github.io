@@ -38,5 +38,5 @@ Industry Experience
 
 Service
 ======
- - Conference reviewer: ICML 2021, 2022; NeurIPS 2020 - 2022; ICLR 2020 - 2022; AISTATS 2021 - 2022.
+ - Conference reviewer: ICML 2021, 2022; NeurIPS 2020 - 2022; ICLR 2020 - 2023; AISTATS 2021 - 2023.
  - Journal reviewer: Pattern Recognition.
