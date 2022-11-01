@@ -12,4 +12,14 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation:
+<pre>
+@inproceedings{han2021simultaneously,
+  title={Simultaneously reconciled quantile forecasting of hierarchically related time series},
+  author={Han, Xing and Dasgupta, Sambarta and Ghosh, Joydeep},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={190--198},
+  year={2021},
+  organization={PMLR}
+}
+</pre>
