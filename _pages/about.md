@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Xing Han"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
