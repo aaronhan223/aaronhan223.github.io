@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Austin, USA"
+locale                   : "en-US"
 theme                    : "jekyll-theme-minimal"
 title                    : "Homepage of Xing Han"
 title_separator          : "-"
