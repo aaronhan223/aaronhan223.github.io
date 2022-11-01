@@ -13,7 +13,11 @@ I am currently a PhD candidate at University of Texas at Austin, working with [P
 
 Research Interests
 ======
-I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on (1) **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. (2) **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. (3) **Interpretability**: build human understandable explanations for model decisions, with particular focus on non *i.i.d.* data such as time series or sequential data.
+I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics
+
+ - `Uncertainty quantification`: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
+ - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
+ - **Interpretability**: build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
 Getting started
 ======
