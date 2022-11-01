@@ -7,7 +7,7 @@ date: 2021-7-18
 paperurl: 'https://arxiv.org/pdf/2011.00639.pdf'
 paperconf: 'https://ieeexplore.ieee.org/document/9533992'
 code: 
-authors: <b>Xing Han</b>, and Joydeep Ghosh
+authors: <b>Xing Han</b> and Joydeep Ghosh
 publisher: 2021 International Joint Conference on Neural Networks (IJCNN).
 
 ---
