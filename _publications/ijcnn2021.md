@@ -6,7 +6,6 @@ excerpt:
 date: 2020-9-25
 paperurl: 'https://arxiv.org/pdf/2011.10219.pdf'
 paperconf: 'https://proceedings.neurips.cc/paper/2020/file/b139aeda1c2914e3b579aafd3ceeb1bd-Paper.pdf'
-code: 'https://github.com/gnobitab/CertifiedMonotonicNetwork'
 authors: Xingchao Liu, <b>Xing Han</b>, Na Zhang and Qiang Liu
 publisher: 34th Conference on Neural Information Processing Systems (NeurIPS 2020).
 
