@@ -15,13 +15,13 @@ Research Interests
 ======
 I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics
 
- - **Uncertainty quantification**`**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
+ - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
  - **Interpretability**: build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
-In addition, I'm also interested in research on novel ML methods for transformative applications in healthcare.
+Besides, I'm also interested in novel ML methods for transformative applications in healthcare.
 
-Getting started
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
