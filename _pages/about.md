@@ -17,18 +17,17 @@ I am boardly interested in developing principles and practice of trustworthy mac
 
  - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
- - **Interpretability**: build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
+ - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
 Besides, I'm also interested in novel ML methods for transformative applications in healthcare.
 
-News
+Recent News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+ - (5/31/22) Started my internship at Google.
+ - (5/15/22) One paper accepted to ICML 2022.
+ - (2/1/22) Successfully passed my qualifying exam, and now become a Ph.D. candidate!
+ - (1/22/21) One paper accepted to AISTATS 2021.
+ - (9/25/20) One paper accepted to NeurIPS 2020 as a spotlight presentation.
 
 Site-wide configuration
 ------
