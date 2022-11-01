@@ -29,7 +29,7 @@ Recent News
  - (1/22/21) One paper accepted to AISTATS 2021.
  - (9/25/20) One paper accepted to NeurIPS 2020 as a spotlight presentation.
 
-Industry Experience
+Professional Experience
 ======
  - Research Intern, Google. 5/22 - 9/22.
  - Research Intern, Intuit AI. 6/21 - 9/21.
