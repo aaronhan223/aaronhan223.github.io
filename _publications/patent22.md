@@ -7,8 +7,7 @@ date: 2022-8-4
 paperurl: 'https://patentimages.storage.googleapis.com/58/76/52/b838ce77063a87/US20220245322A1.pdf'
 paperconf: 
 code: 
-authors: Jessica Lundin, Owen Winne Schoppe, <b>Xing Han</b>, Michael Reynolds Sollami, Brian J. Lonsdorf, Alan Martin Ross, David J.
-Woodward and Sonke Rohde
+authors: Jessica Lundin, Owen Winne Schoppe, <b>Xing Han</b>, Michael Reynolds Sollami, Brian J. Lonsdorf, Alan Martin Ross, David J. Woodward and Sonke Rohde
 publisher: US Patent 2022/0245322 A1
 
 ---
