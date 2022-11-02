@@ -19,21 +19,21 @@ Education
 
 Professional Experience
 ======
-* Summer 2022: Research Intern, Google
+* **Summer 2022: Research Intern, Google**
   * Built different forecasting models to improve workload prediction at machine and VM level
   * Developed effective reconciliation methods for time series with dynamically changing hierarchy
 
-* Summer 2021: Research Intern, Intuit
+* **Summer 2021: Research Intern, Intuit**
   * Developed hierarchical time series forecasting models that improved forecasting accuracy
   * Improved efficiency of forecasting pipeline by writing concurrent and multi-GPU program
 
-* Summer 2020: R&D Intern, Salesforce
+* **Summer 2020: R&D Intern, Salesforce**
   * Implemented state-of-the-art text style transfer models and designed a web-based UI for demo
   * Researched on text style transfer on small and unbalanced dataset. Implemented a Bayesian task adaptive meta learning algorithm to fine-tune pre-trained language models
 
-* Summer 2018: Applied Scientist Intern, CognitiveScale
+* **Summer 2018: Applied Scientist Intern, CognitiveScale**
   * Implemented session-based recommendation algorithms and achieved state-of-the-art performance
-  * Lead a team project of 5 interns to research ``Ethical AI'' and pitched a business idea to company
+  * Lead a team project of 5 interns to research "Ethical AI" and pitched a business idea to company
 
 Skills
 ======
