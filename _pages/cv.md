@@ -20,9 +20,8 @@ Education
 Professional Experience
 ======
 * Summer 2022: Research Intern, Google
-  * Built different forecasting models to improve workload prediction at machine and task level
+  * Built different forecasting models to improve workload prediction at machine and VM level
   * Developed effective reconciliation methods for time series with dynamically changing hierarchy
-  * Leveraged explanation tools to understand root causes and simulate risks given factor changes
 
 * Summer 2021: Research Intern, Intuit
   * Developed hierarchical time series forecasting models that improved forecasting accuracy
@@ -33,8 +32,8 @@ Professional Experience
   * Researched on text style transfer on small and unbalanced dataset. Implemented a Bayesian task adaptive meta learning algorithm to fine-tune pre-trained language models
 
 * Summer 2018: Applied Scientist Intern, CognitiveScale
-  * Researched and implemented novel session-based recommendation algorithms and achieved a mean reciprocal rank of 0.34 on ACM RecSys 2015 dataset compared with 0.31 from state-of-the-art
-  * Lead a team project of 5 interns to research ``Ethical AI'' and pitched a business idea to company executives, incorporated machine learning fairness and ethical standards in a debt risk analysis project for a large hospital client
+  * Implemented session-based recommendation algorithms and achieved state-of-the-art performance
+  * Lead a team project of 5 interns to research ``Ethical AI'' and pitched a business idea to company
 
 Skills
 ======
