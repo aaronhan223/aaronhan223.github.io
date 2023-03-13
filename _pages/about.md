@@ -21,6 +21,8 @@ I am boardly interested in developing principles and practice of trustworthy mac
 
 Besides, I'm also interested in research on novel ML methods for transformative applications in healthcare. Please check out my [research statement](http://aaronhan223.github.io/files/Research_Statement.pdf) for more details.
 
+**I am graduating in 2023 and currently looking for a research position. If you have any opportunities, please reach out to me via email. Thanks!**
+
 Recent News
 ======
  - (5/31/22) Started my internship at Google.
