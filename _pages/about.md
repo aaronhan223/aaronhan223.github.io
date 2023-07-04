@@ -19,12 +19,11 @@ I am boardly interested in developing principles and practice of trustworthy mac
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
-Besides, I'm also interested in research on novel ML methods for transformative applications in healthcare. Please check out my [research statement](http://aaronhan223.github.io/files/Research_Statement.pdf) for more details.
-
-**I am graduating in 2023 and currently looking for a research position. If you have any opportunities, please reach out to me via email. Thanks!**
+Besides, I'm also interested in research on novel ML methods for transformative applications in healthcare.
 
 Recent News
 ======
+ - (5/23/23) I will start working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/) as a Post-doctoral Fellow!
  - (5/31/22) Started my internship at Google.
  - (5/15/22) One paper accepted to ICML 2022.
  - (2/1/22) Successfully passed my qualifying exam, and now become a Ph.D. candidate!
