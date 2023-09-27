@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am currently a PhD candidate at University of Texas at Austin, where I am associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I am fortunate to be advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/), and collaborate with [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
+I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with Prof. [Suchi Saria](https://suchisaria.jhu.edu/). I graduated with my Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was fortunate to be advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
 
 Research Interests
 ======
@@ -19,11 +19,14 @@ I am boardly interested in developing principles and practice of trustworthy mac
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
-Besides, I'm also interested in research on novel ML methods for transformative applications in healthcare.
+Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
 
 Recent News
 ======
- - (5/23/23) I will start working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/) as a Post-doctoral Fellow!
+ - (9/22/23) One paper accepted to NeurIPS 2023.
+ - (9/1/23) Started my appointment as a Postdoctoral Fellow in Johns Hopkins.
+ - (7/17/23) Finished my PhD journey at UT!
+ - (5/23/23) I will start working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/) as a Postdoctoral Fellow!
  - (5/31/22) Started my internship at Google.
  - (5/15/22) One paper accepted to ICML 2022.
  - (2/1/22) Successfully passed my qualifying exam, and now become a Ph.D. candidate!
@@ -39,5 +42,5 @@ Professional Experience
 
 Service
 ======
- - Conference reviewer: ICML 2021, 2022; NeurIPS 2020 - 2022; ICLR 2020 - 2023; AISTATS 2021 - 2023.
+ - Conference reviewer: ICML 2021 - 2023; NeurIPS 2020 - 2023; ICLR 2020 - 2024; AISTATS 2021 - 2024; ICASSP 2024; ML4H 2023
  - Journal reviewer: Pattern Recognition.

@@ -15,7 +15,7 @@ Education
 ======
 * B.Eng. in Electronics and Electrical Engineering, The University of Edinburgh, 2017
 * M.S. in Electrical and Computer Engineering, The University of Texas at Austin, 2019
-* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2023 (expected)
+* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2023
 
 Professional Experience
 ======
