@@ -1,5 +1,5 @@
 ---
-title: "Robustify Transformers with Robust Kernel Density Estimation"
+title: Designing Robust Transformers using Robust Kernel Density Estimation"
 collection: arxiv
 permalink: rkde
 excerpt: 
