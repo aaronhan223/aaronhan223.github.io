@@ -3,6 +3,7 @@ title: "Certified Monotonic Neural Networks"
 date: 2020-09-25
 id: neurips2020
 selected: true
+cover: /images/paper_images/monotonic_nn.png
 authors:
   - "Xingchao Liu"
   - "Xing Han"
