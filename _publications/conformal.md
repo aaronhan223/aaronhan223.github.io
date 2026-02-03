@@ -1,6 +1,7 @@
 ---
 title: "Split Localized Conformal Prediction"
 date: 2022-06-27
+id: conformal
 authors:
   - "Xing Han"
   - "Ziyang Tang"

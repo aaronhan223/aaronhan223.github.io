@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Combination of Heterogeneous Models for Hierarchical Time Series"
 date: 2021-12-22
+id: dychem
 authors:
   - "Xing Han"
   - "Jing Hu"

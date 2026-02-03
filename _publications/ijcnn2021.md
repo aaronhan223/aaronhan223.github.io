@@ -1,6 +1,7 @@
 ---
 title: "Model-Agnostic Explanations using Minimal Forcing Subsets"
 date: 2021-07-18
+id: ijcnn2021
 authors:
   - "Xing Han"
   - "Joydeep Ghosh"

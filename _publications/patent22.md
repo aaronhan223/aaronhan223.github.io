@@ -1,6 +1,7 @@
 ---
 title: "Machine-learning based generation of text style variations for digital content items"
 date: 2022-08-04
+id: patent22
 authors:
   - "Jessica Lundin"
   - "Owen Winne Schoppe"

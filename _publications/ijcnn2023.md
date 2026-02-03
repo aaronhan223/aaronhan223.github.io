@@ -1,6 +1,7 @@
 ---
 title: "A Novel Control-Variates Approach for Performative Gradient-Based Learners with Missing Data"
 date: 2023-06-18
+id: ijcnn2023
 authors:
   - "Xing Han"
   - "Jing Hu"

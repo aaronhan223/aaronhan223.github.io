@@ -1,6 +1,7 @@
 ---
 title: "Sensing Personality to Predict Job Performance"
 date: 2019-05-02
+id: sensor19
 authors:
   - "Suwen Lin"
   - "Stephen M. Mattingly"
