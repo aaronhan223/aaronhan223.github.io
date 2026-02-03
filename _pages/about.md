@@ -15,7 +15,9 @@ Research Interests
 I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics
 
  - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
+ 
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
+ 
  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
 Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
