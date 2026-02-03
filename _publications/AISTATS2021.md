@@ -3,6 +3,7 @@ title: "Simultaneously Reconciled Quantile Forecasting of Hierarchically Related
 date: 2021-01-21
 id: aistats2021
 selected: true
+cover: /images/paper_images/sharq-logo.jpeg
 authors:
   - "Xing Han"
   - "Sambarta Dasgupta"
