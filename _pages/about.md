@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with Prof. [Suchi Saria](https://suchisaria.jhu.edu/). I graduated with my Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was fortunate to be advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
+I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with Prof. [Suchi Saria](https://suchisaria.jhu.edu/). I graduated with Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I've also worked with [Prof. Paul Liang](https://pliang279.github.io/), [Prof. Nhat Ho](https://nhatphho.github.io/) and [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) on some interesting research problems. I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/).
 
 Research Interests
 ======
@@ -17,7 +17,7 @@ I am boardly interested in developing principles and practice of trustworthy mac
  - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
  
  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
- 
+
  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
 
 Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
