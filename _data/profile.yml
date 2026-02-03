@@ -1,0 +1,59 @@
+primary_name: "Xing Han"
+secondary_name: ""
+navbar_name: "Xing Han"
+
+positions:
+- name: Postdoctoral Fellow
+- name: Department of Computer Science, Johns Hopkins University
+
+email: "xhan56@jhu.edu"
+cv_link: /files/Resume.pdf
+gscholar: "https://scholar.google.com/citations?user=Vejou24AAAAJ&hl=en"
+github: "aaronhan223"
+twitter: "xinghan0"
+linkedin: "xing-han-628653b6"
+instagram: "aaronhan223"
+
+short_bio_text_justify: false
+short_bio: >-
+  I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with Prof. [Suchi Saria](https://suchisaria.jhu.edu/). I graduated with my Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was fortunate to be advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/) in 2017.
+  
+  I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics:
+  
+  - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems.
+  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods.
+  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
+  
+  Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
+
+portrait_url: /images/profile.jpg
+
+education:
+- name: University of Texas at Austin
+  position: Ph.D.
+  date: "2017 - 2023"
+- name: The University of Edinburgh
+  position: B.S. in Electronics and Electrical Engineering
+  date: "2013 - 2017"
+
+experience:
+- name: Johns Hopkins University
+  dept: Department of Computer Science
+  position: Postdoctoral Fellow
+  date: "Sep. 2023 - present"
+- name: Google
+  position: Research Intern
+  date: "May 2022 - Sep. 2022"
+- name: Intuit AI
+  position: Research Intern
+  date: "Jun. 2021 - Sep. 2021"
+- name: Salesforce
+  position: R&D Intern
+  date: "Jun. 2020 - Aug. 2020"
+- name: CognitiveScale
+  position: Applied Scientist Intern
+  date: "May 2018 - Aug. 2018"
+
+awards:
+- name: Ph.D. Candidate
+  date: "2022"
