@@ -30,27 +30,34 @@ portrait_url: /images/profile.jpg
 
 education:
 - name: University of Texas at Austin
+  logo: /images/logos/UT-Austin-logo.svg
   position: Ph.D.
   date: "2017 - 2023"
 - name: The University of Edinburgh
+  logo: /images/logos/uoe-logo.png
   position: B.S. in Electronics and Electrical Engineering
   date: "2013 - 2017"
 
 experience:
 - name: Johns Hopkins University
+  logo: /images/logos/jhu-logo.jpeg
   dept: Department of Computer Science
   position: Postdoctoral Fellow
   date: "Sep. 2023 - present"
 - name: Google
+  logo: /images/logos/google-logo.jpeg
   position: Research Intern
   date: "May 2022 - Sep. 2022"
 - name: Intuit AI
+  logo: /images/logos/intuit-logo.png
   position: Research Intern
   date: "Jun. 2021 - Sep. 2021"
 - name: Salesforce
+  logo: /images/logos/salesforce-logo.png
   position: R&D Intern
   date: "Jun. 2020 - Aug. 2020"
 - name: CognitiveScale
+  logo: /images/logos/cognitivescale-logo.png
   position: Applied Scientist Intern
   date: "May 2018 - Aug. 2018"
 
