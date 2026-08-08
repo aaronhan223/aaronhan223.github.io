@@ -16,6 +16,7 @@ short_bio_text_justify: false
 short_bio: >-
   I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/). I graduated with Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I've also worked with Profs. [Paul Liang](https://pliang279.github.io/), [Nhat Ho](https://nhatptnk8912.github.io/) and [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) on interesting research problems. I got my Bachelor's degree in electronics and electrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/).
 
+
   I build multimodal foundation models and agents that acquire the core competencies of human experts: integrating heterogeneous evidence as it unfolds over time, reasoning about "what-if" trajectories, and staying reliable as the situation evolves. My work bridges core machine learning methodology with high-stakes applications such as medicine:
 
   - **Multimodal foundation models**: multimodal fusion, cross-modal interactions, clinical foundation models.
