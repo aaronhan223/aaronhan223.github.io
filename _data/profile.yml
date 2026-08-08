@@ -1,5 +1,5 @@
 primary_name: "Xing Han"
-secondary_name: "(Aaron)"
+# secondary_name: "(Aaron)"
 navbar_name: "Xing Han"
 
 positions:
@@ -26,6 +26,9 @@ short_bio: >-
   - **Trustworthy & enduring deployment**: uncertainty quantification, sequential monitoring, continual learning.
 
   - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
+
+
+  <span style="color:#B22222;font-weight:700;">I am on 2026 - 2027 academic job market this year, would love to connect to discuss about futures!</span>
 
 portrait_url: /images/EchoAaron360.jpg
 

@@ -22,6 +22,8 @@ I build multimodal foundation models and agents that acquire the core competenci
 
  - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
 
+<span style="color:#B22222;font-weight:700;">I am on 2026 - 2027 academic job market this year, would love to connect to discuss about futures!</span>
+
 Recent News
 ======
  - (6/15/26) Received the ICML 2026 Gold Reviewer Award.
