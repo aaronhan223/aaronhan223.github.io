@@ -16,25 +16,25 @@ instagram: "aaronhan223"
 
 short_bio_text_justify: false
 short_bio: >-
-  I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/). I graduated with Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I've also worked with Profs. [Paul Liang](https://pliang279.github.io/), [Nhat Ho](https://nhatptnk8912.github.io/) and [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) on interesting research problems. I got my Bachelor's degree in electronics and eletrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/).
-  
-  I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics:
-  
-  - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems.
+  I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/). I graduated with Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I've also worked with Profs. [Paul Liang](https://pliang279.github.io/), [Nhat Ho](https://nhatptnk8912.github.io/) and [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) on interesting research problems. I got my Bachelor's degree in electronics and electrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/).
 
-  - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods.
+  I build multimodal foundation models and agents that acquire the core competencies of human experts: integrating heterogeneous evidence as it unfolds over time, reasoning about "what-if" trajectories, and staying reliable as the situation evolves. My work bridges core machine learning methodology with high-stakes applications such as medicine:
 
-  - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
-  
-  Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
+  - **Multimodal foundation models**: multimodal fusion, cross-modal interactions, clinical foundation models.
+
+  - **Counterfactual reasoning & simulation**: counterfactual simulation, physiology-constrained generative models.
+
+  - **Trustworthy & enduring deployment**: uncertainty quantification, sequential monitoring, continual learning.
+
+  - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
 
 portrait_url: /images/EchoAaron360.jpg
 
 education:
 - name: University of Texas at Austin
   logo: /images/logos/UT-Austin-logo.svg
-  position: Ph.D.
-  date: "July 2023"
+  position: M.Sc. - Ph.D. in Electrical and Computer Engineering
+  date: "Aug. 2023"
 - name: The University of Edinburgh
   logo: /images/logos/uoe-logo.png
   position: B.S. in Electronics and Electrical Engineering
@@ -46,7 +46,7 @@ experience:
   dept: Department of Computer Science
   position: Postdoctoral Fellow
   date: "Sep. 2023 - present"
-- name: Google
+- name: Google Cloud AI
   logo: /images/logos/google-logo.jpeg
   position: Research Intern
   date: "May 2022 - Sep. 2022"

@@ -12,36 +12,40 @@ I am currently a Postdoctoral Fellow at Department of Computer Science of Johns 
 
 Research Interests
 ======
-I am boardly interested in developing principles and practice of trustworthy machine learning. Specifically, I have been focused on the following research topics
+I build multimodal foundation models and agents that acquire the core competencies of human experts: integrating heterogeneous evidence as it unfolds over time, reasoning about "what-if" trajectories, and staying reliable as the situation evolves. My work bridges core machine learning methodology with high-stakes applications such as medicine.
 
- - **Uncertainty quantification**: to better capture the epistemic uncertainty in common predictive modeling and classification problems. 
- 
- - **Robustness**: to strengthen the model's defense on adversarial attack, data poisoning and distribution drift, and construct certified robustness to provide safety guarantee via statistical modeling and optimization methods. 
+ - **Multimodal foundation models**: multimodal fusion, cross-modal interactions, clinical foundation models.
 
- - **Interpretability**: to build human understandable explanations for model decisions, with particular focus on non i.i.d. data such as time series or sequential data.
+ - **Counterfactual reasoning & simulation**: counterfactual simulation, physiology-constrained generative models.
 
-Besides, I'm also interested in enhancing the predictive power of deep learning models in clinical contexts.
+ - **Trustworthy & enduring deployment**: uncertainty quantification, sequential monitoring, continual learning.
+
+ - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
 
 Recent News
 ======
- - (9/22/23) One paper accepted to NeurIPS 2023.
+ - (6/15/26) Received the ICML 2026 Gold Reviewer Award.
+ - (1/22/26) Massively Multimodal Foundation Models accepted to ICLR 2026.
+ - (9/15/25) Invited talk at EcoSta 2025.
+ - (5/1/25) WATCH accepted to ICML 2025.
+ - (4/1/25) Between Linear and Sinusoidal accepted to TMLR.
+ - (9/25/24) FuseMoE accepted to NeurIPS 2024.
+ - (6/1/24) Novel Node Category Detection accepted to ECML-PKDD 2024.
  - (9/1/23) Started my appointment as a Postdoctoral Fellow in Johns Hopkins.
  - (7/17/23) Finished my PhD journey at UT!
- - (5/23/23) I will start working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/) as a Postdoctoral Fellow!
- - (5/31/22) Started my internship at Google.
- - (5/15/22) One paper accepted to ICML 2022.
- - (2/1/22) Successfully passed my qualifying exam, and now become a Ph.D. candidate!
- - (1/22/21) One paper accepted to AISTATS 2021.
- - (9/25/20) One paper accepted to NeurIPS 2020 as a spotlight presentation.
 
 Professional Experience
 ======
- - Research Intern, Google. 5/22 - 9/22.
- - Research Intern, Intuit AI. 6/21 - 9/21.
- - R&D Intern, Salesforce. 6/20 - 8/20.
+ - Postdoctoral Fellow, Johns Hopkins University. 9/23 - now.
+ - Research Intern, Google Cloud AI. 5/22 - 9/22.
+ - Data Scientist Intern, Intuit. 6/21 - 9/21.
+ - Research Intern, Salesforce. 6/20 - 8/20.
  - Applied Scientist Intern, CognitiveScale. 5/18 - 8/18.
 
 Service
 ======
- - Conference reviewer: ICML 2021 - 2023; NeurIPS 2020 - 2023; ICLR 2020 - 2024; AISTATS 2021 - 2024; ICASSP 2024; ML4H 2023
- - Journal reviewer: Pattern Recognition.
+ - Conference reviewer: ICLR 2020 - now; NeurIPS 2020 - now; ICML 2021 - now; AISTATS 2021 - now; IJCNN 2023 - now; ML4H 2023 - now; ICASSP 2023 - now; MLHC 2024 - now; SDM 2026 - now.
+ - Journal reviewer: Pattern Recognition; Journal of Open Source Software; IEEE T-PAMI; Nature Biomedical Engineering; Medical Image Analysis.
+ - Mentor, ML4H Author & Reviewer & Career Mentorship Program, 2024 - now.
+ - Technical Program Committee, WellComp Workshop at UbiComp/ISWC, 2026.
+ - Reading Group Organizer, Multimodal Learning in Health at JHU, 2024 - 2025.
