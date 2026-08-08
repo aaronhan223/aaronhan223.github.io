@@ -10,7 +10,7 @@ authors:
   - "Na Zhang"
   - "Qiang Liu"
 pub: "34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
-pub_post: " <span style=\"color:#B22222;font-weight:600;\">Spotlight presentation (280/9454 ~ 2.96%); over 185 citations as of July 2026</span>"
+pub_post: " <span style=\"display:block;color:#B22222;font-weight:600;\">Spotlight presentation (280/9454 ~ 2.96%); over 185 citations as of July 2026</span>"
 abstract: "Certifies monotonicity of general piecewise-linear networks via mixed-integer linear programming, so monotonicity can be encouraged heuristically during training and then verified exactly afterwards."
 links:
   Arxiv:
