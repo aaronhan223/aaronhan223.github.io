@@ -3,6 +3,7 @@ title: "WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Mar
 date: 2025-07-01
 id: watch25
 selected: true
+cover: /images/paper_images/WATCH-logo.png
 authors:
   - "Drew Prinster#"
   - "Xing Han#"

@@ -3,6 +3,7 @@ title: "Massively Multimodal Foundation Models: A Framework for Capturing Intera
 date: 2026-04-01
 id: mmfm26
 selected: true
+cover: /images/paper_images/MERGE-logo.png
 authors:
   - "Xing Han"
   - "Hsing-Huan Chung"

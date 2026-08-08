@@ -3,6 +3,7 @@ title: "QoQ-Med3: Robust Multimodal Clinical Analysis Foundation Model with Reas
 date: 2026-01-01
 id: qoqmed26
 selected: true
+cover: /images/paper_images/QoQ-logo.png
 authors:
   - "David Dai"
   - "Jeannie She"
