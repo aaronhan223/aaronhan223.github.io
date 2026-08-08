@@ -10,7 +10,7 @@ authors:
   - "Suchi Saria"
   - "Joydeep Ghosh"
 pub: "Transactions on Machine Learning Research (TMLR)"
-abstract: "A rigorous study showing a simple linear time encoder avoids this information loss, letting self-attention itself learn time spans, with extensive experiments across six datasets."
+abstract: "Shows that the standard sinusoidal time encoder in dynamic graph learning discards information, and that a simple linear encoder lets self-attention learn time spans itself, with consistent gains across benchmarks."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2504.08129"

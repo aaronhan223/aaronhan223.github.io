@@ -8,7 +8,7 @@ authors:
   - "Xing Han*"
   - "Nhat Ho"
 pub: "In submission to SIAM Journal on Mathematics of Data Science"
-abstract: "Proves that each row of self-attention can be written as a quadratic-gating mixture of linear experts, derives convergence rates under quadratic monomial vs. polynomial gates (monomial gates are more sample-efficient), shows non-linear experts converge faster than linear ones, and uses these insights to propose a new \"active-attention\" mechanism."
+abstract: "Proves that each row of self-attention can be written as a quadratic-gating mixture of linear experts, and derives convergence rates for expert estimation under quadratic gating."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2410.11222"

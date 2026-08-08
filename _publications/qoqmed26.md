@@ -15,8 +15,8 @@ authors:
   - "Robert Stevens"
   - "Paul Pu Liang"
 pub: "npj Digital Medicine"
-abstract: "QoQ-Med3 and QoQ-Med3-MIMIC are systematically evaluated along these three axes, demonstrating transferable representations across modalities, tasks, and heterogeneous clinical datasets."
+abstract: "A robust multimodal clinical foundation model with reasoning that integrates a wide range of clinical modalities and amplifies underrepresented ones such as ultrasound and mammography, yielding transferable performance across modalities, tasks, and institutions."
 links:
-  DOI:
-    url: "https://doi.org/10.21203/rs.3.rs-8391230/v1"
+  Journal:
+    url: "https://www.nature.com/articles/s41746-026-02945-3"
 ---

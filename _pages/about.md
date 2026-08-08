@@ -31,8 +31,15 @@ Recent News
  - (4/1/25) Between Linear and Sinusoidal accepted to TMLR.
  - (9/25/24) FuseMoE accepted to NeurIPS 2024.
  - (6/1/24) Novel Node Category Detection accepted to ECML-PKDD 2024.
+ - (9/22/23) One paper accepted to NeurIPS 2023.
  - (9/1/23) Started my appointment as a Postdoctoral Fellow in Johns Hopkins.
  - (7/17/23) Finished my PhD journey at UT!
+ - (5/23/23) I will start working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/) as a Postdoctoral Fellow!
+ - (5/31/22) Started my internship at Google.
+ - (5/15/22) One paper accepted to ICML 2022.
+ - (2/1/22) Successfully passed my qualifying exam, and now become a Ph.D. candidate!
+ - (1/22/21) One paper accepted to AISTATS 2021.
+ - (9/25/20) One paper accepted to NeurIPS 2020 as a spotlight presentation.
 
 Professional Experience
 ======

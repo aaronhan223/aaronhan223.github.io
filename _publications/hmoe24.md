@@ -9,7 +9,7 @@ authors:
   - "Nhat Ho"
   - "Suchi Saria"
 pub: "In submission to JMLR"
-abstract: "Replaces softmax with a Laplace gating function at both levels and theoretically proves this eliminates the harmful parameter interactions, yielding faster expert convergence and stronger specialization."
+abstract: "Replaces softmax with a Laplace gating function at both levels of a hierarchical mixture of experts, provably eliminating the harmful parameter interactions that slow expert estimation."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2410.02935"

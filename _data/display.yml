@@ -2,7 +2,7 @@ homepage:
   show_experience: true
   show_news: true
   show_selected_publications: true
-  num_news: 10
+  num_news: 20
 
 footer_text: >-
   © 2023 Xing Han. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.

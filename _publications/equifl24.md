@@ -8,7 +8,7 @@ authors:
   - "Joydeep Ghosh"
   - "Yejin Kim"
 pub: "Preprint"
-abstract: "EquiFL, which adds a fairness term to each client's local objective and a coordination mechanism that blocks bias propagation during aggregation, achieving both local and global fairness plus performance parity across clients."
+abstract: "EquiFL adds a fairness term to each client's local objective together with a coordination mechanism that blocks bias from propagating during aggregation, improving fairness at both the local and global level."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2406.17102"

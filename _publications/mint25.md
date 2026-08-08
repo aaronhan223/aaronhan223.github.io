@@ -9,7 +9,7 @@ authors:
   - "Haofei Yu"
   - "Paul Pu Liang"
 pub: "Preprint"
-abstract: "MINT groups instruction-tuning tasks by the type of multimodal interaction they require (redundancy, unique-modality dominance, or synergistic fusion), encouraging transferable skill learning within a group while suppressing cross-group interference."
+abstract: "Groups instruction-tuning tasks by the type of multimodal interaction they demand -- redundancy, unique-modality dominance, or synergistic fusion -- avoiding the interference that makes naive scaling of task count fail."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2506.02308"

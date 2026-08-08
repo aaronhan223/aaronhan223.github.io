@@ -1,6 +1,6 @@
 ---
 title: "Certified Monotonic Neural Networks"
-date: 2020-09-25
+date: 2020-12-01
 id: neurips2020
 selected: true
 cover: /images/paper_images/monotonic_nn.png
@@ -10,8 +10,8 @@ authors:
   - "Na Zhang"
   - "Qiang Liu"
 pub: "34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
-pub_post: "Spotlight"
-abstract: "Learning monotonic models with respect to a subset of the inputs is a desirable feature to effectively address the fairness, interpretability, and generalization issues in practice. Existing methods for learning monotonic neural networks either require specifically designed model structures to ensure monotonicity, which can be too restrictive/complicated, or enforce monotonicity by adjusting the learning process, which cannot provably guarantee the learned model is monotonic on selected features. In this work, we propose to certify the monotonicity of the general piece-wise linear neural networks by solving a mixed integer linear programming problem. This provides a new general approach for learning monotonic neural networks with arbitrary model structures. Our method allows us to train neural networks with heuristic monotonicity regularizations, and we can gradually increase the regularization magnitude until the learned network is certified monotonic. Compared to prior work, our method does not require human-designed constraints on the weight space and also yields more accurate approximation. Empirical studies on various datasets demonstrate the efficiency of our approach over the state-of-the-art methods, such as Deep Lattice Networks."
+pub_post: " <span style=\"color:#B22222;font-weight:600;\">Spotlight presentation (280/9454 ~ 2.96%); over 185 citations as of July 2026</span>"
+abstract: "Certifies monotonicity of general piecewise-linear networks via mixed-integer linear programming, so monotonicity can be encouraged heuristically during training and then verified exactly afterwards."
 links:
   Arxiv:
     url: "https://arxiv.org/pdf/2011.10219.pdf"

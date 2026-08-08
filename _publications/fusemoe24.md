@@ -10,8 +10,8 @@ authors:
   - "Nhat Ho"
   - "Suchi Saria"
 pub: "Neural Information Processing Systems (NeurIPS) 2024"
-pub_post: " Over 149 citations as of July 2026"
-abstract: "A mixture-of-experts transformer with a novel gating function designed specifically to integrate diverse numbers of modalities while robustly managing missing modalities and irregular sampling."
+pub_post: " <span style=\"color:#B22222;font-weight:600;\">Over 149 citations as of July 2026</span>"
+abstract: "A mixture-of-experts Transformer whose Laplace gating fuses an arbitrary and variable number of asynchronous modalities while handling missing data and irregular sampling, backed by a convergence-rate guarantee."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2402.03226"

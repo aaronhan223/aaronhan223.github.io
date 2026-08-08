@@ -10,7 +10,7 @@ authors:
   - "Rama Chellappa"
   - "Suchi Saria"
 pub: "Preprint"
-abstract: "A scalable MoE framework using modality-specific routers for multitask pretraining across flexible modality combinations, plus continual learning within a fixed-capacity MoE by compressing accumulated expert knowledge into low-rank memory subspaces while expanding only lightweight routers."
+abstract: "A fixed-capacity mixture-of-experts framework with modality-specific routers that pretrains across flexible modality combinations and continually absorbs new tasks by compressing accumulated expert knowledge into low-rank memory subspaces, alleviating catastrophic forgetting."
 links:
   Arxiv:
     url: "https://arxiv.org/abs/2605.09355"
