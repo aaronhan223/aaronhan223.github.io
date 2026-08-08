@@ -1,10 +1,9 @@
 primary_name: "Xing Han"
 secondary_name: "(Aaron)"
-navbar_name: "Xing Han (Aaron)"
+navbar_name: "Xing Han"
 
 positions:
-- name: Postdoctoral Fellow
-- name: Department of Computer Science, Johns Hopkins University
+- name: Postdoctoral Fellow at Johns Hopkins University
 
 email: "xhan56@jhu.edu"
 cv_link: /files/Resume.pdf
