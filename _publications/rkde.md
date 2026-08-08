@@ -3,6 +3,7 @@ title: "Designing Robust Transformers using Robust Kernel Density Estimation"
 date: 2023-12-01
 id: rkde
 selected: true
+cover: /images/paper_images/RKDE-logo.png
 authors:
   - "Xing Han"
   - "Tongzheng Ren"

@@ -3,6 +3,7 @@ title: "FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task L
 date: 2026-05-01
 id: flame26
 selected: true
+cover: /images/paper_images/FLAME-logo.png
 authors:
   - "Xing Han"
   - "Shravan Chaudhari"

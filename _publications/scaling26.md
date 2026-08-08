@@ -3,6 +3,7 @@ title: "On the Invariance and Generality of Neural Scaling Laws"
 date: 2026-05-01
 id: scaling26
 selected: true
+cover: /images/paper_images/scaling-law-logo.png
 authors:
   - "Xing Han"
   - "Ziyin Liu"

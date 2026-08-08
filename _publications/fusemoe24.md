@@ -3,6 +3,7 @@ title: "FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion"
 date: 2024-12-01
 id: fusemoe24
 selected: true
+cover: /images/paper_images/FuseMoE-logo.png
 authors:
   - "Xing Han"
   - "Huy Nguyen"
