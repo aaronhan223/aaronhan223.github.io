@@ -22,7 +22,7 @@ I build multimodal foundation models and agents that acquire the core competenci
 
  - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
 
-<span style="color:#B22222;font-weight:700;">I am on 2026 - 2027 academic job market this year, would love to connect to discuss about futures!</span>
+<span style="color:#B22222;font-weight:700;">I am on 2026 - 2027 academic job market, would love to connect to discuss about futures!</span><br/><span style="color:#B22222;font-size:0.88em;">No visa sponsorship is required for my academic or industry employment in the United States.</span>
 
 Recent News
 ======
