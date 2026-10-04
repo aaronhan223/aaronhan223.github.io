@@ -10,7 +10,7 @@ authors:
   - "Tanvi Ranade"
   - "Rama Chellappa"
   - "Suchi Saria"
-pub: "Preprint"
+pub: "Neural Information Processing Systems (NeurIPS) 2026"
 abstract: "A fixed-capacity mixture-of-experts framework with modality-specific routers that pretrains across flexible modality combinations and continually absorbs new tasks by compressing accumulated expert knowledge into low-rank memory subspaces, alleviating catastrophic forgetting."
 links:
   Arxiv:
