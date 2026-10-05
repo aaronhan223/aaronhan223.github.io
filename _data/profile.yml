@@ -17,15 +17,15 @@ short_bio: >-
   I am currently a Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University, working with [Prof. Suchi Saria](https://suchisaria.jhu.edu/). I graduated with Ph.D. at University of Texas at Austin, where I was associated with [IDEAL](https://www.ideal.ece.utexas.edu/index.html), [WNCG](https://www.wncg.org/) and [IFML](https://www.ifml.institute/). I was advised by [Prof. Joydeep Ghosh](https://www.ideal.ece.utexas.edu/~ghosh/). I've also worked with Profs. [Paul Liang](https://pliang279.github.io/), [Nhat Ho](https://nhatptnk8912.github.io/) and [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) on interesting research problems. I got my Bachelor's degree in electronics and electrical engineering from [The University of Edinburgh](https://www.ed.ac.uk/).
 
 
-  I build multimodal foundation models and agents that acquire the core competencies of human experts: integrating heterogeneous evidence as it unfolds over time, reasoning about "what-if" trajectories, and staying reliable as the situation evolves. My work bridges core machine learning methodology with high-stakes applications such as medicine:
+  I design multimodal foundation models and agents capable of human-expert reasoning in high-stakes environments. My research bridges core machine learning with real-world deployment such as healthcare. My vision is to build trustworthy, self-improving AI systems that seamlessly integrate into workflows to improve outcomes, topics include:
 
-  - **Multimodal foundation models**: multimodal fusion, cross-modal interactions, clinical foundation models.
+  - **Multimodal Foundation Models**: multimodal fusion, cross-modal interactions, medical foundation models.
 
-  - **Counterfactual reasoning & simulation**: counterfactual simulation, physiology-constrained generative models.
+  - **Self-Evolving Agentic System**: self-play methods, memory and knowledge evolution, counterfactual simulation.
 
-  - **Trustworthy & enduring deployment**: uncertainty quantification, sequential monitoring, continual learning.
+  - **Trustworthy & Enduring Deployment**: uncertainty quantification, sequential monitoring, interpretability.
 
-  - **Foundations of machine learning**: neural scaling laws, time-series sequence models, interpretability.
+  - **Foundations of Machine Learning**: time-series sequence models, ensemble models, neural scaling laws.
 
 
   <span style="color:#B22222;font-weight:700;">I am on 2026 - 2027 academic job market, would love to connect to discuss about futures!</span><br/><span style="color:#B22222;font-size:0.88em;">No visa sponsorship is required for my academic or industry employment in the United States.</span>
